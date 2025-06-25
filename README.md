@@ -1,4 +1,4 @@
-# Company Management - Backend
+# User Management - Backend
 
 This is the *backend API* for the User Management System, built using *ASP.NET Core (.NET 8)*. It provides RESTful endpoints to manage user data, employees, departments, and other related entities.
 
